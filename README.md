@@ -1,2 +1,2 @@
 # yolov5-single-class
-The Same Code as ultralytics with Coco2017 Single-Class Training Added
+Basically the same code as [ultralytics/yolov5](https://github.com/ultralytics/yolov5) just with Coco2017 single-class training added.
